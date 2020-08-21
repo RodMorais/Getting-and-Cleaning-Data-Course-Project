@@ -14,10 +14,10 @@ This is the course project for the Getting and Cleaning Data course.
 > 5. The work submitted for this project is the work of the student who submitted it.
 
 ## The data for this project was obtained at:
-[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 File:
-[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## The task: 
 >
